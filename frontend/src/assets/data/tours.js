@@ -15,7 +15,7 @@ const tours = [
     address: 'Somewhere',
     price: 499,
     maxGroupSize: 10,
-    desc: "this is the description",
+    desc: "ajsbfaksnflcas",
     reviews: [
       {
         name: "Cris Dasalla",
