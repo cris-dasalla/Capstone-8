@@ -13,14 +13,24 @@
 }
 
 .login__img img {
-  width: 99%;
+  width: 126%;
   object-fit: contain;
+  object-position: bottom 0px right 50px;
+  border-radius: 0.5rem;
+}
+
+
+.register img {
+  object-position: bottom 70px right 50px;
+  object-fit: cover;
 }
 
 .login__form {
   padding: 50px;
   background: var(--secondary-color);
   position: relative;
+  border-top-right-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
 }
 
 .login__container {
