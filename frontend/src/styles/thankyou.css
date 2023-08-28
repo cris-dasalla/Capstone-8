@@ -1,0 +1,18 @@
+:root {
+    --primary-color: #0c356a;
+    --secondary-color: #0063db;
+    --heading-color: #0b2727;
+    --text-color: #6e7074;
+    --font-name: "Montserrat", sans-serif;
+    --subtitle-font-name: "Bricolage Grotesque", sans-serif;
+  }
+
+.thank__you span i{
+    font-size: 4rem;
+    color: green;
+}
+
+.thank__you h1{
+    font-size: 3.6rem;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Calle Crisologo",
+    "city": "Vigan",
+    "address": "Somewhere in Vigan",
+    "price": 499,
+    "maxGroupSize": 10,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Nacpan Beach",
+    "city": "El Nido",
+    "address": "Somewhere in El Nido",
+    "price": 499,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Tubbataha Reef",
+    "city": "Palawan",
+    "address": "Somewhere in Palawan",
+    "price": 499,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Mayon Volcano, Albay",
+    "city": "Bicol",
+    "address": "Somewhere in Bicol",
+    "price": 499,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Intramuros | Fort Santiago",
+    "city": "Manila",
+    "address": "Somewhere in Manila",
+    "price": 499,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Taal Volcano and Lake",
+    "city": "Tagaytay",
+    "address": "Somewhere in Tagaytay",
+    "price": 499,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Kawasan Falls",
+    "city": "Cebu",
+    "address": "Somewhere in Cebu",
+    "price": 499,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Kayangan Lake, Coron",
+    "city": "Palawan",
+    "address": "Somewhere in Palawan",
+    "price": 499,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": true
+  },
+  {
+    "title": "Banaue Rice Terraces",
+    "city": "Ifugao",
+    "address": "Somewhere in Ifugao",
+    "price": 499,
+    "maxGroupSize": 5,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  },
+  {
+    "title": "Puerto Princesa Underground River",
+    "city": "Palawan",
+    "address": "Somewhere in Palawan",
+    "price": 499,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img10.jpg",
+    "featured": false
+  }
+]
