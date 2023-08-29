@@ -26,7 +26,7 @@ const Booking = ({ tour, avgRating }) => {
     setBooking((prev) => ({ ...prev, [e.target.id]: e.target.value }));
   };
 
-  const serviceFee = 10;
+  const serviceFee = 350;
   const totalAmount =
     Number(price) * Number(booking.guestSize) + Number(serviceFee);
 

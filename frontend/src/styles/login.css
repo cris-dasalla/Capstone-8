@@ -45,11 +45,11 @@
   position: absolute;
   top: -9%;
   left: 50%;
-  transform: translate(-50%, -9%);
+  transform: translate(-50%, -10%);
 }
 
 .login__form .user img {
-  width: 100%;
+  width: 120%;
 }
 
 .login__form h2 {
