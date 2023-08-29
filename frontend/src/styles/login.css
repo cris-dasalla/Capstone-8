@@ -21,8 +21,9 @@
 
 
 .register img {
-  object-position: bottom 70px right 50px;
+  object-position: bottom 0px right 50px;
   object-fit: cover;
+  width: 126%;
 }
 
 .login__form {
